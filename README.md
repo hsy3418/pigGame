@@ -1,2 +1,3 @@
 # pigGame
-It is a simple pig game based on web
+It is a simple pig game using html, css and javascript
+![](gamescreenshot.png)
